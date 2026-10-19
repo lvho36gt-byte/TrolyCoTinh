@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý AI Cho Giáo Viên Lớp 4",
+  "description": "Hệ thống trợ lý AI toàn diện dành cho giáo viên tiểu học theo Chương trình GDPT 2018 và Thông tư 27 - Giải thưởng Tiên phong Ứng dụng AI trong Giáo dục Việt Nam 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
